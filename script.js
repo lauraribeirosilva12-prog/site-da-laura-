@@ -8,7 +8,5 @@ function alternarModo () {
   }else {
     botao.textContent = 'Modo Escuro';
   }
- 
-}
 botao.addEventListener('click', alternarModo);
 
